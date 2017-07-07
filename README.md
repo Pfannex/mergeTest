@@ -1,6 +1,7 @@
 MASTER
 
-Line3 geändert im branch
+
+Line3 geäntert im Master
 Line4
 Line5 
 
